@@ -37,7 +37,7 @@ def sifrecoz():
         notescoz = notescoz.decode("ascii")
         text_not.delete('1.0',END)
         text_not.insert(END,notescoz)
-
+git add
 
 label_title = Label(text="Başlık Giriniz")
 label_title.pack()
